@@ -5,7 +5,7 @@ from cryptofuzz import Convertor
 from cryptofuzz.assest import MAX_PRIVATE_KEY
 from colorthon import Colors
 
-co = Convertor()
+co = Convertor(bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97)
 
 # COLORS CODE --------------------
 RED = Colors.RED
